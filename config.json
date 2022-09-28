@@ -1,0 +1,5 @@
+{
+  "client_id": "LVJQOEVTbGdiZ1BCM25aQTFxS2c6MTpjaQ",
+  "client_secret": "jt1Eb-9fPNMvBmQkhBcAuMgDQORAueOxdwsNQbRbXQ_oGi4n9T",
+  "redirect_uri": "http://localhost:3000/auth/callback"
+}
